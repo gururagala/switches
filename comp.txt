@@ -1,0 +1,69 @@
+1)mathyesu vachanam 1 to 25
+
+
+*Current Rating: 1 A*Voltage Rating: 50 V *Pitch: 1.25mm *Pins: 2 *Type: Male Connector
+
+
+*Working Voltage: 25 V *Capacitance: 22uF *Diameter: 5± 0.5 mm *Length: 11 ± 1 mm *Pitch: 2 ± 0.5 mm *LeadDiameter:0.5 ± 0.05 mm *Mounting Type: Through Hole *Manufacturer: KELTRON
+
+
+
+
+*Current Rating: 1A(AWG#26) *Voltage Rating: 50 V *Pitch: 1.25 mm *Pins: 2 *Type: Male Connector *Style:Right Angle *Mounting Type:Through Hole
+
+
+*3 Pin JST XH Female Cable – Single Side Female *Pitch: 2.54 mm *Wire Gauge: 7/40 *Cable Length: 11 inch
+
+
+
+*4 pin JST XH Series Male Connector *Pitch: 2.54 mm *Type: Male Connector *Mild Locking Mechanism for female connector once inserted
+
+
+
+
+
+
+*Current Rating: 3 A *Voltage Rating: 250 V *Pitch: 2.54mm *Pins: 3 *Type: Male Connector
+
+
+
+
+
+
+*Channel Type: P Channel*Drain Source Voltage Vds: 20V *Continuous Drain Current Id: 500mA *Drain Source On State Resistance: 0.6ohm *Transistor Case Style: SOT-23 *Transistor Mounting: Surface Mount *Rds(on) Test Voltage: 4.5V *Gate Source Threshold Voltage Max: 800mV *Power Dissipation: 400mW *No. of Pins: 3Pins *Operating Temperature Max: 150°C *Product Range: XP221P0501xx-G  *MSL: MSL 1 - Unlimited
+
+
+
+*BC847CLT3G Features *the DC current gain for this device is 420 @ 2mA 5V *a collector emitter saturation voltage of 600mV *the vce saturation(Max) is 600mV @ 5mA, 100mA *the emitter base voltage is kept at 6V *the current rating of this device is 100mA *a transition frequency of 100MHz
+
+
+
+
+
+MK08 nRF52840 Module *Nordic® Semiconductor nRF52840 SoC solution *Bluetooth (2 Mbps,CSA #2,Advertising Extensions,Long Range) *64 MHz ARM® Cortex-M4F CPU*1MB Flash and 256kB RAM *1.7 V to 5.5 V *UART,SPI,TWI,PDM,PWM,ADC *21 x 13.8 x 2.3mm (with shield) *46 GPIOs *Antenna(MK08A – PCB antenna , MK08B – u.FL connector) *Highly flexible multiprotocol SoC ideally suited for Bluetooth® Low Energy, ANT+, Zigbee, Thread (IEEE 802.15.4) ultra low-power wireless applications.
+
+
+
+Male jack Description:*2.1 x 5.5mm CCTV Camera DC Power Plug Connector.*DC Power Plug with plastic construction and strain relief.*This 2.1 x 5.5mm Power Plug features one power connector end DC plug male to another end terminal for CCTV camera connected.*The internal diameter of the plug: 2.1mm*The external diameter of the plug: 5.5mm
+
+
+
+Supply voltage (V) up to 30-Type of connector Female Supports DC Power Jack-2.1 x 5.5 mm*Diameter (mm)-14*Total Length (mm)-18
+
+
+
+Series: JST-XH, 51021, 51047, 53047, 53048, 53398, 53261 *Current Rating: 500mA *Voltage Rating: 125V *Withstand Voltage: 500V AC/Minute *Wire size: 28 to 32AWG *Contact Gender Type: Female *Maximum Contact Resistance: <20 mΩ *Insulation Resistance: >100 mΩ *Housing: PA66 (PA66) UL94V-2 *Termination Method: Crimp *Operating Temperature: -25°C ~ 85°C *No of Pins: 2 *Pitch: 1.25 mm *Cable Length: 300 mm *Approx Weight: 1gm
+
+
+Voltage: 3.7 Volts *Capacity: 2500 mAh *Rechargeable: Yes *Battery Size: Diameter- 18mm x Length- 67mm *Charging Method CC-CV *Type : ICR-18650
+
+
+
+
+*Current Rating: 3 A *Voltage Rating: 250 V *Pitch: 2.54 mm *Pins: 6 *Type: Right Angle/Side Entry Male Connector
+
+
+
+
+
+*Connector: PCB Terminal Block *Termination: Screw *No. of Contacts: 3 *Allowed Wire Size (AWG): 22 ~ 12 *Voltage(V): 320 *Operating Current (A): 3 *Mounting Type: Through Hole *Pin Spacing (mm): 2.54 *Material: Metal and plastic *Length (mm): 9 *Width (mm): 7.5 *Height (mm): 12
